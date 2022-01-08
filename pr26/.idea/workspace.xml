@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a9a3694-28f6-426c-ad17-bdce4244b2b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../pr10/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/contracts/Escrow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/contracts/Migrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/migrations/2_escrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/contracts/Escrow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/contracts/Migrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/contracts/Strings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/migrations/2_string_manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr12/migrations/2_fibonacci.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Escrow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Fibonacci.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Migrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Multisig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Strings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/migrations/2_multisig_wallet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr14/migrations/2_voting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr15/migrations/2_dao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr19/contracts/Fomo3d.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr2/test/helloWorld.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr21/app/src/components/LoadingComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr21/app/src/components/TokenMetadata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr21/app/src/components/TokenWallet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr21/app/src/drizzleOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr22/app/src/components/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr22/app/src/components/ICOInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr22/app/src/components/Investor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr22/app/src/components/LoadingContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr3/test/simpleStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr4/migrations/2_advanced_storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr4/test/advancedStorage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pr1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pr1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="23NZwzNw4IhTBPGxjJPqkUCaXyX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a9a3694-28f6-426c-ad17-bdce4244b2b6" name="Default Changelist" comment="" />
+      <created>1641576747909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641576747909</updated>
+      <workItem from="1641576748977" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

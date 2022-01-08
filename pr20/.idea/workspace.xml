@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6d3f794-aab6-4239-8a1e-e7df2af679c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../pr10/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/contracts/Escrow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/contracts/Migrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/client/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr10/migrations/2_escrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/contracts/Escrow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/contracts/Migrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/contracts/Strings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/client/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr11/migrations/2_string_manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr12/migrations/2_fibonacci.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Escrow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Fibonacci.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Migrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Multisig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/contracts/Strings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/client/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr13/migrations/2_multisig_wallet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr14/migrations/2_voting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr15/migrations/2_dao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr19/contracts/Fomo3d.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr2/test/helloWorld.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr21/app/src/components/LoadingComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr21/app/src/components/TokenMetadata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr21/app/src/components/TokenWallet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr21/app/src/drizzleOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr22/app/src/components/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr22/app/src/components/ICOInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr22/app/src/components/Investor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr22/app/src/components/LoadingContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr3/test/simpleStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr4/migrations/2_advanced_storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr4/test/advancedStorage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pr1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pr1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="23HMFzACWGBnuu8V2eTz7XwCz8Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d3f794-aab6-4239-8a1e-e7df2af679c7" name="Default Changelist" comment="" />
+      <created>1641386459825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641386459825</updated>
+      <workItem from="1641386460887" duration="4447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1256" height="398" key="GridCell.Tab.0.bottom" timestamp="1641644547438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1641644547438" />
+    <state width="1256" height="398" key="GridCell.Tab.0.center" timestamp="1641644547438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1641644547438" />
+    <state width="1256" height="398" key="GridCell.Tab.0.left" timestamp="1641644547437">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1641644547437" />
+    <state width="1256" height="398" key="GridCell.Tab.0.right" timestamp="1641644547438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1641644547438" />
+  </component>
+</project>
